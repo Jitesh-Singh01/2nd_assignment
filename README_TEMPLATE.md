@@ -4,38 +4,18 @@ Simple overview of use/purpose.
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
-
-## Getting Started
-
-### Installing
-
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+'myproject' is our contract name
+we have 3 public variables named : T_name, T_address, Total
+T-name, T_address are associated with token, and total is the total value that exist with a user
+mapping function is used to map 'value' to a address , each address will have its certain value that can be altered using mint and burn function
+'mint' function is used to add value to both 'total' and 'address value'
+'burn'funftion is usdd to deduct values from both , if the amount entered is deductable , for which we used an if conditional statement
 
 ### Executing program
 
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
-
-## Help
-
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
+```clone the repository on remix ide, compile and execute by passing required arguments
 
 ## Authors
 
-Contributors names and contact info
+Jitesh Singh
 
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
-
-
-## License
-
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
