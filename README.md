@@ -1,6 +1,4 @@
-# Project Title
-
-Simple overview of use/purpose.
+ETH project - using solidity
 
 ## Description
 
