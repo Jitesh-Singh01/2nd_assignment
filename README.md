@@ -1,3 +1,5 @@
+THIS PROJECT CONTAINS : 
+
 - 'myproject' is our contract name
 - we have 3 public variables named : T_name, T_address, Total
 - T-name, T_address are associated with token, and total is the total value that exist with a user
